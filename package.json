@@ -59,7 +59,7 @@
     "@cityssm/utils-datetime": "^1.0.0",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "activedirectory2": "^2.2.0",
-    "better-sqlite3": "^9.4.0",
+    "better-sqlite3": "^9.5.0",
     "chart.js": "^4.4.1",
     "chokidar": "^3.5.3",
     "compression": "^1.7.4",
